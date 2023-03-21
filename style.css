@@ -1,0 +1,82 @@
+body{
+    background-image: url(./image/wallpaper.jpg);
+    background-size: cover;
+    
+
+}
+.title{
+    background: #000;
+    color: #0088ff;
+    margin: 20px auto;
+    text-align: center;
+    width: 280px;
+    border-radius: 20px;
+    
+}
+span{
+    color:yellow;
+}
+.header {
+}
+.main {
+}
+.media {
+    border: 1px solid #000;
+    width: 1000px;
+    margin: 0 auto;
+    border-radius: 20px;
+    background-image: url(./image/wallpaper-2.jpg);
+    background-size: cover;
+}
+.media-player-1,.media-player-2,.media-player-3,.media-player-4{
+    border: 1px solid #000;
+    width: 300px;
+    height: 225px;
+    background-color: #ffff0089;
+    border-radius: 20px;
+    margin: 20px 80px;
+    
+    
+}
+.media-player-1 {
+    background-color:hsla(347, 97%, 74%, 1);
+    
+}
+.media-player-2 {
+    background-color: hsla(21, 82%, 53%, 1);
+    
+    
+}
+.media-player-3 {
+    background-color: hsla(60, 6%, 93%, 1);
+
+    
+}
+.media-player-4 {
+    background-color: rgb(91, 68, 53);
+    color: aliceblue;
+    
+    
+}
+.media-name {
+    text-align: center;
+}
+.media-image {
+    text-align: center;
+    border-radius: 20px;
+    
+    
+}
+.image_musik {
+    width: auto;
+    height: 100px;
+    border-radius: 5px;
+
+}
+.media-audio {
+    
+}
+ul,li{
+    display: inline-block;
+
+}
